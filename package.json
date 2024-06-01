@@ -1,0 +1,12 @@
+{
+  "name": "@stakekit/solana-private-key-export",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "bip39": "^3.0.3",
+    "bs58": "^5.0.0",
+    "bip32": "^2.0.6",    
+    "@solana/web3.js": "1.52.0"
+  }
+}
